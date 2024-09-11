@@ -26,5 +26,3 @@ Para manter a clareza e a organização no histórico de commits, adotamos o pad
 
 
 
-
-Copied!
