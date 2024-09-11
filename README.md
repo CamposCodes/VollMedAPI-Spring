@@ -1,3 +1,5 @@
+Claro! Aqui está a versão atualizada do documento, removendo a parte sobre autenticação e autorização e adicionando as funcionalidades de atualizar, remover, cadastrar e visualizar médicos e pacientes.
+
 # API da Clínica Médica Voll Med
 
 Este repositório contém a API da Clínica Médica Voll Med, projetada para gerenciar informações de pacientes, agendamentos e atendimentos. A API é construída com Spring Boot, seguindo as melhores práticas de desenvolvimento e utilizando diversas habilidades do framework para garantir eficiência e robustez.
